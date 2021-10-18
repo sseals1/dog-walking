@@ -1,0 +1,17 @@
+.details {
+    
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.detail--column {
+    padding-left: 20px;
+    flex-basis: 24%;
+    margin: 0 2rem;
+    border: 1px dotted goldenrod;
+}
+
+.assignments {
+    padding: 1rem 5rem;
+}
+
